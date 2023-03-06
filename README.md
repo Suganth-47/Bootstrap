@@ -1,3 +1,1 @@
-Used bootstrap to replicate https://placement.kongu.edu/ website
-
-For college 
+created a company website to try bootstrap
